@@ -1,0 +1,36 @@
+# Privacy Policy — HelvetiKit (English)
+
+Effective date: 2025‑01‑01
+
+HelvetiKit respects your privacy. This policy explains what information the app processes and how.
+
+## What We Collect
+- We do not collect, transmit, sell, or share personal data.
+- The app has no accounts, no servers of its own, and no tracking SDKs.
+- All tool operations (e.g., QR, color, JSON, JWT, hashing) run on‑device.
+
+## Permissions We Request
+- Camera (NSCameraUsageDescription): used only to scan QR codes. Camera input is processed on‑device and is not stored or sent to us.
+- Photo Library (NSPhotoLibraryUsageDescription / NSPhotoLibraryAddUsageDescription): used only to import images for QR scanning or to save QR images you generate. Access is limited to your explicit action; images are not uploaded.
+
+## Purchases
+- HelvetiKit uses Apple’s in‑app purchases (StoreKit). Apple processes payments and issues receipts. We store only your Pro unlock status locally on your device (e.g., to enable unlimited runs). We do not collect billing or identity information.
+
+## Diagnostics & Analytics
+- We do not include third‑party analytics or advertising SDKs.
+- If Apple or your device collects crash logs, they are managed by Apple according to your system settings. We do not receive personal data from these logs.
+
+## Data Retention
+- Input you provide (text, images) is processed in memory or stored locally only when you explicitly save or copy it. The app does not upload your content.
+
+## Children’s Privacy
+- HelvetiKit is a general‑purpose utility app and does not target children. We do not collect personal data from any users.
+
+## Changes
+- We may update this policy to reflect product or legal changes. The latest version will be bundled with the app and/or posted at the project website.
+
+## Contact
+If you have questions about this policy, contact the developer:
+
+- Email: <update-with-your-support-email>
+- App Store support page: see the app’s listing in the App Store
